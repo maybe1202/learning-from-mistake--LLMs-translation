@@ -1,0 +1,911 @@
+[
+  {
+    "參考句子": "ima qa cquliq qaca hiya ? ",
+    "翻譯句子": "yaqenu cquliq ima ?",
+    "BLEU-1": 0.3422780793550613,
+    "BLEU-2": 6.253122426428973e-155,
+    "BLEU-3": 3.99583507394749e-204,
+    "BLEU-4": 8.451929273732148e-232,
+    "BLEU 分數": 8.451929273732148e-232
+  },
+  {
+    "參考句子": "pqutay misu cikay ha , cyan inu qalang Ulay bih llyung Tranan ya ? ",
+    "翻譯句子": "kingan pqutay su cikay , llyung Tranan ga Ulay qalang inu ?",
+    "BLEU-1": 0.5731115271545874,
+    "BLEU-2": 0.2283330978648293,
+    "BLEU-3": 1.0513494481386079e-102,
+    "BLEU-4": 6.449517150554339e-155,
+    "BLEU 分數": 6.449517150554339e-155
+  },
+  {
+    "參考句子": "babaw knryax tyugal tmucing , musa mqbaq tminun muyax ni yata . ",
+    "翻譯句子": "kryaxan tyugan gwahiy yata muyax mqbaq tminun.",
+    "BLEU-1": 0.37225089001774603,
+    "BLEU-2": 0.2010384577463796,
+    "BLEU-3": 8.94344801921448e-103,
+    "BLEU-4": 5.3981964394227255e-155,
+    "BLEU 分數": 5.3981964394227255e-155
+  },
+  {
+    "參考句子": "pisa tmucing m’abi su gbyan ? ",
+    "翻譯句子": "misu gbyan pisa tmucing m’abi ?",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.6324555320336759,
+    "BLEU-3": 0.5143157015215767,
+    "BLEU-4": 7.380245217279165e-78,
+    "BLEU 分數": 7.380245217279165e-78
+  },
+  {
+    "參考句子": "qalang myan ga khmay Tayal hiya . ",
+    "翻譯句子": "myan qalang cquliq tyaba khmay ga Tayal.",
+    "BLEU-1": 0.7142857142857143,
+    "BLEU-2": 1.2606896804377566e-154,
+    "BLEU-3": 7.962053161081e-204,
+    "BLEU-4": 1.674851531220629e-231,
+    "BLEU 分數": 1.674851531220629e-231
+  },
+  {
+    "參考句子": "kya hminas cmka na qa cyan maki qalang rgyax , ",
+    "翻譯句子": "kya uyi cmka hminas ga Genzyumin cquliq snku nya qalang ,",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "musa su inu ? ",
+    "翻譯句子": "musa su inu ga hiya ?",
+    "BLEU-1": 0.6,
+    "BLEU-2": 0.5477225575051662,
+    "BLEU-3": 0.4677351412871982,
+    "BLEU-4": 6.86809206056511e-78,
+    "BLEU 分數": 6.86809206056511e-78
+  },
+  {
+    "參考句子": "qniyat lmpux biru ga , musa tmwang tinbaqan ta . ",
+    "翻譯句子": "qniyat biru baqun cami tmwang kinbaqan.",
+    "BLEU-1": 0.35826565528689464,
+    "BLEU-2": 7.55774771366971e-155,
+    "BLEU-3": 5.071572039845371e-204,
+    "BLEU-4": 1.0977058971259433e-231,
+    "BLEU 分數": 1.0977058971259433e-231
+  },
+  {
+    "參考句子": "uya , lpux ha , mpux , mpusal , mtiyul , mspatul , miman , mtiyu pgan , mpitu pgan , mspat pgan , mqesu pgan , ay ! ini tehuk gegay pila mu , mqesu pgan pila nanak . ",
+    "翻譯句子": "lokah, lpux ha, mpux, mpusal, mtiyul, mspatul, miman, mtiyu pgan, mpitu pgan, mspat pgan, mqesu pgan, ay! cu gegay pila iyat, nanak mqesu pgan.",
+    "BLEU-1": 0.8050388628006578,
+    "BLEU-2": 0.7399005708098154,
+    "BLEU-3": 0.6863919412690475,
+    "BLEU-4": 0.6536547641554104,
+    "BLEU 分數": 0.6536547641554104
+  },
+  {
+    "參考句子": "maki qa muyax bbesan , muyax psatu biru ro byoying , ",
+    "翻譯句子": "kya muyax bbesan, muyax psatu biru ro byoying,",
+    "BLEU-1": 0.772184789761521,
+    "BLEU-2": 0.7642647363993407,
+    "BLEU-3": 0.7557072617862028,
+    "BLEU-4": 0.7420884818558928,
+    "BLEU 分數": 0.7420884818558928
+  },
+  {
+    "參考句子": "hiya ga cyan alan kanggok . ",
+    "翻譯句子": "hiya ga kanggok.",
+    "BLEU-1": 0.513417119032592,
+    "BLEU-2": 0.3630407264452067,
+    "BLEU-3": 1.218299621249876e-102,
+    "BLEU-4": 6.439988060393651e-155,
+    "BLEU 分數": 6.439988060393651e-155
+  },
+  {
+    "參考句子": "uya , ana ga laxiy mingiy muwah kgabi gbyan . ",
+    "翻譯句子": "baqun , sbiru musa loyi ha .",
+    "BLEU-1": 0,
+    "BLEU-2": 0,
+    "BLEU-3": 0,
+    "BLEU-4": 0,
+    "BLEU 分數": 0
+  },
+  {
+    "參考句子": "mhkangi cu musa muyax krryax . ",
+    "翻譯句子": "musa krryax mhkangi muyax .",
+    "BLEU-1": 0.7788007830714049,
+    "BLEU-2": 1.1617123203744312e-154,
+    "BLEU-3": 6.929050144285687e-204,
+    "BLEU-4": 1.4188441800045678e-231,
+    "BLEU 分數": 1.4188441800045678e-231
+  },
+  {
+    "參考句子": "trahu cu ni sesiy mu , baha hmcwa mung cu ke . ",
+    "翻譯句子": "sesiy psbaq ni yaba mu baha hmcwa \"cu calay ke\"",
+    "BLEU-1": 0.7,
+    "BLEU-2": 0.3944053188733077,
+    "BLEU-3": 0.27245985926189253,
+    "BLEU-4": 4.560736619621221e-78,
+    "BLEU 分數": 4.560736619621221e-78
+  },
+  {
+    "參考句子": "nanu baq su kmayal ke na Tayal . ",
+    "翻譯句子": "nanu mica , su mhuway baq kmayal ke.",
+    "BLEU-1": 0.7142857142857143,
+    "BLEU-2": 0.3450327796711771,
+    "BLEU-3": 1.4777858300981341e-102,
+    "BLEU-4": 8.761982757198608e-155,
+    "BLEU 分數": 8.761982757198608e-155
+  },
+  {
+    "參考句子": "ktalan ta mlaka qa kyabil lga , ta pgiy binhqan lukus la . ",
+    "翻譯句子": "ktalan kyabil mlaka , ta pgyan binhqan lukus la .",
+    "BLEU-1": 0.6013781189421007,
+    "BLEU-2": 0.34364463939548606,
+    "BLEU-3": 0.2408074171232907,
+    "BLEU-4": 3.7924762235343403e-78,
+    "BLEU 分數": 3.7924762235343403e-78
+  },
+  {
+    "參考句子": "qalang Tayal ga maki qa muyax ruma , muyax qhoniq , muyax btunux , kho , ro ssyakaw r’anan . ",
+    "翻譯句子": "Tayal ga qalang muyax ruma , muyax qhoniq , muyax btunux , kho ro r’anan .",
+    "BLEU-1": 0.7788007830714049,
+    "BLEU-2": 0.6641635393965356,
+    "BLEU-3": 0.5923472843595688,
+    "BLEU-4": 0.546475116464442,
+    "BLEU 分數": 0.546475116464442
+  },
+  {
+    "參考句子": "msqun cami kgabi ro mangay qnituh . ",
+    "翻譯句子": "myan msqun su kgabi ro ki qnituh.",
+    "BLEU-1": 0.5714285714285714,
+    "BLEU-2": 0.3086066999241838,
+    "BLEU-3": 1.3728756229492927e-102,
+    "BLEU-4": 8.286571670851008e-155,
+    "BLEU 分數": 8.286571670851008e-155
+  },
+  {
+    "參考句子": "kmayal sesiy maha , ",
+    "翻譯句子": "sesiy cquliq cami kmayal mha ,",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "qniyat cbalay mtiyaw . ",
+    "翻譯句子": "ptiyaw mhuway qniyat",
+    "BLEU-1": 0.3333333333333333,
+    "BLEU-2": 8.612150057732663e-155,
+    "BLEU-3": 6.19152043543562e-204,
+    "BLEU-4": 1.384292958842266e-231,
+    "BLEU 分數": 1.384292958842266e-231
+  },
+  {
+    "參考句子": "cyan kcka rgyax Bnka . ",
+    "翻譯句子": "cyan Bnka ga rgyax cquliq .",
+    "BLEU-1": 0.6,
+    "BLEU-2": 1.155441177691175e-154,
+    "BLEU-3": 7.516873425707151e-204,
+    "BLEU-4": 1.6034157163765524e-231,
+    "BLEU 分數": 1.6034157163765524e-231
+  },
+  {
+    "參考句子": "magal twangan qesu , squnun lga mpux payat pila . mhuway besan ciyal . ",
+    "翻譯句子": "magan twangan mqesu , squnun ga mpux payat pila , mhuway besan .",
+    "BLEU-1": 0.6333861926251716,
+    "BLEU-2": 0.5046941987886602,
+    "BLEU-3": 0.44531055832596395,
+    "BLEU-4": 0.38662527162788296,
+    "BLEU 分數": 0.38662527162788296
+  },
+  {
+    "參考句子": "cyan maki inu muyax su ? ",
+    "翻譯句子": "su cinmuyax maki inu ?",
+    "BLEU-1": 0.5841005873035536,
+    "BLEU-2": 0.3894003915357024,
+    "BLEU-3": 1.4701791006940697e-102,
+    "BLEU-4": 8.214546595247418e-155,
+    "BLEU 分數": 8.214546595247418e-155
+  },
+  {
+    "參考句子": "karang nyan mxal , ini kxal tatu hiya . ",
+    "翻譯句子": "qa karang nya mxal , tatu iyat mxal .",
+    "BLEU-1": 0.42857142857142855,
+    "BLEU-2": 9.765260274142007e-155,
+    "BLEU-3": 6.726900215918542e-204,
+    "BLEU-4": 1.4740564900137075e-231,
+    "BLEU 分數": 1.4740564900137075e-231
+  },
+  {
+    "參考句子": "glgan mu musa mqwas biru krryax . ",
+    "翻譯句子": "qutux qutux ryax ga glgan hiya mqwas biru . \n\nIn this case, the term \"騎\" in [zh] is translated as \"glgan\" in [amis], which means \"ride\". So the translation would be \"qutux qutux ryax ga glgan hiya mqwas biru\" meaning \"I ride it to school every day\".",
+    "BLEU-1": 0.06521739130434781,
+    "BLEU-2": 0.03806934938134404,
+    "BLEU-3": 3.4498758177294794e-103,
+    "BLEU-4": 2.9104486616123448e-155,
+    "BLEU 分數": 2.9104486616123448e-155
+  },
+  {
+    "參考句子": "hoyil mu ga mqatung . ",
+    "翻譯句子": "mu hoyil ga mqatung ni .",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.447213595499958,
+    "BLEU-3": 1.7537333503408093e-102,
+    "BLEU-4": 9.975386110402101e-155,
+    "BLEU 分數": 9.975386110402101e-155
+  },
+  {
+    "參考句子": "son nanu musa Gipun ya ? ",
+    "翻譯句子": "musa nanu wayan Gipun ?",
+    "BLEU-1": 0.5841005873035536,
+    "BLEU-2": 1.0060723813336494e-154,
+    "BLEU-3": 6.3014997182378755e-204,
+    "BLEU-4": 1.3203832882211142e-231,
+    "BLEU 分數": 1.3203832882211142e-231
+  },
+  {
+    "參考句子": "maki qa bawiq cikay , ro maki qa rroq cikay uyi . ",
+    "翻譯句子": "nya ga bawiq , nya ga rroq .",
+    "BLEU-1": 0.17113903967753066,
+    "BLEU-2": 4.421625271317475e-155,
+    "BLEU-3": 3.1788325843927756e-204,
+    "BLEU-4": 7.107197028258987e-232,
+    "BLEU 分數": 7.107197028258987e-232
+  },
+  {
+    "參考句子": "piyux cbalay bnu nya ro tnran nya qulih . ",
+    "翻譯句子": "hiya mbu ro tnran qulih piyux.",
+    "BLEU-1": 0.47768754038252614,
+    "BLEU-2": 0.2616402413066696,
+    "BLEU-3": 1.0992301153568253e-102,
+    "BLEU-4": 6.458654791343583e-155,
+    "BLEU 分數": 6.458654791343583e-155
+  },
+  {
+    "參考句子": "Hayung , pqutay misu cikay ha , cyan muyax Pisuy ? ",
+    "翻譯句子": "Hayung pqutay cikay , Pisuy muyax ga ?",
+    "BLEU-1": 0.5971094254781577,
+    "BLEU-2": 0.2925226826055808,
+    "BLEU-3": 1.183229319056423e-102,
+    "BLEU-4": 6.829195976849487e-155,
+    "BLEU 分數": 6.829195976849487e-155
+  },
+  {
+    "參考句子": "pqniyat cu tqbaq biru uyi . ",
+    "翻譯句子": "uya uyi baq lokah biru .",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "smgatu hiya ga maki cka ryax tmangux abax . ",
+    "翻譯句子": "smgatu ga nya tmangux abax kbalay.",
+    "BLEU-1": 0.47768754038252614,
+    "BLEU-2": 0.2616402413066696,
+    "BLEU-3": 1.0992301153568253e-102,
+    "BLEU-4": 6.458654791343583e-155,
+    "BLEU 分數": 6.458654791343583e-155
+  },
+  {
+    "參考句子": "ana ga ini ptnaq bnes myan biru ke pinqiyan bnheci hiya . ",
+    "翻譯句子": "ana ga cami bnes ke bnheci pyatu mtnaq . \n\nIn this translation, I used \"pyatu\" for the term \"卻\" as it was the closest term in meaning that I could find in the dictionary. Let me know if it fits the context or if you have a better suggestion.",
+    "BLEU-1": 0.10416666666666666,
+    "BLEU-2": 0.04707772357216935,
+    "BLEU-3": 3.9690069770237217e-103,
+    "BLEU-4": 3.236532280674218e-155,
+    "BLEU 分數": 3.236532280674218e-155
+  },
+  {
+    "參考句子": "qutux enpit ro qutux biru brwan . ",
+    "翻譯句子": "qutux enpit ro qutux biru brwan .",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.0,
+    "BLEU-3": 1.0,
+    "BLEU-4": 1.0,
+    "BLEU 分數": 1.0
+  },
+  {
+    "參考句子": "wan tanux yaya ga , wan mqbubu ga ? ",
+    "翻譯句子": "yaya tanux ga mqbubu ha ?",
+    "BLEU-1": 0.5362560368285115,
+    "BLEU-2": 8.943333302197054e-155,
+    "BLEU-3": 5.540503424933637e-204,
+    "BLEU-4": 1.1549495860711975e-231,
+    "BLEU 分數": 1.1549495860711975e-231
+  },
+  {
+    "參考句子": "msqun mqwas ro miyuy smqqas ki sapat maniq . ",
+    "翻譯句子": "tyaba muyax msqun mqwas ro myugi mwah sqqas sapat.",
+    "BLEU-1": 0.4444444444444444,
+    "BLEU-2": 0.33333333333333337,
+    "BLEU-3": 0.25481067521611095,
+    "BLEU-4": 4.335118471269586e-78,
+    "BLEU 分數": 4.335118471269586e-78
+  },
+  {
+    "參考句子": "mnaniq su pkryax la ? ",
+    "翻譯句子": "nanu su pkryax la ga ?",
+    "BLEU-1": 0.6,
+    "BLEU-2": 0.5477225575051662,
+    "BLEU-3": 0.4677351412871982,
+    "BLEU-4": 6.86809206056511e-78,
+    "BLEU 分數": 6.86809206056511e-78
+  },
+  {
+    "參考句子": "nanu qani hiya ? ",
+    "翻譯句子": "qaca nanu ? (This is the closest translation to \"這是什麼？\")",
+    "BLEU-1": 0.11111111111111109,
+    "BLEU-2": 4.972227154133551e-155,
+    "BLEU-3": 4.308710317117189e-204,
+    "BLEU-4": 1.0518351895246305e-231,
+    "BLEU 分數": 1.0518351895246305e-231
+  },
+  {
+    "參考句子": "ktalan ta mlaka qa kwani lga , ana musa minang la . ",
+    "翻譯句子": "ktalan kwani mlaka , ana usa minang la .",
+    "BLEU-1": 0.558376335026619,
+    "BLEU-2": 0.2462208200773531,
+    "BLEU-3": 1.022386491470445e-102,
+    "BLEU-4": 5.974086398499606e-155,
+    "BLEU 分數": 5.974086398499606e-155
+  },
+  {
+    "參考句子": "s’anan nya lmiquy qutux qutux ryax . ",
+    "翻譯句子": "nha krryax s’anan nha maniq lmiquy.",
+    "BLEU-1": 0.3333333333333333,
+    "BLEU-2": 8.612150057732663e-155,
+    "BLEU-3": 6.19152043543562e-204,
+    "BLEU-4": 1.384292958842266e-231,
+    "BLEU 分數": 1.384292958842266e-231
+  },
+  {
+    "參考句子": "mpux saying tmucing , phapuy kryaxan . ",
+    "翻譯句子": "knryax mpux saying gwahiy , ttuliq pkryax.",
+    "BLEU-1": 0.3333333333333333,
+    "BLEU-2": 0.25819888974716115,
+    "BLEU-3": 1.2204318888845425e-102,
+    "BLEU-4": 7.57965434483665e-155,
+    "BLEU 分數": 7.57965434483665e-155
+  },
+  {
+    "參考句子": "uya , cami hiya ga Tayal . ",
+    "翻譯句子": "uya , cami hiya ga Tayal .",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.0,
+    "BLEU-3": 1.0,
+    "BLEU-4": 1.0,
+    "BLEU 分數": 1.0
+  },
+  {
+    "參考句子": "uya la , mnaniq cu pkryax la . ",
+    "翻譯句子": "uya , smoya cu pgyan la . \n\nYes, I have eaten.",
+    "BLEU-1": 0.3333333333333333,
+    "BLEU-2": 8.612150057732663e-155,
+    "BLEU-3": 6.19152043543562e-204,
+    "BLEU-4": 1.384292958842266e-231,
+    "BLEU 分數": 1.384292958842266e-231
+  },
+  {
+    "參考句子": "miyup qa wagi lga , sman la . ",
+    "翻譯句子": "wagi qwalax la , sman la .",
+    "BLEU-1": 0.49123845184678916,
+    "BLEU-2": 0.3170930571698881,
+    "BLEU-3": 1.3057946396533704e-102,
+    "BLEU-4": 7.600394483915427e-155,
+    "BLEU 分數": 7.600394483915427e-155
+  },
+  {
+    "參考句子": "saniq coni mtakuy cu qlinga mcisan cami . ",
+    "翻譯句子": "coni saniq , cu cyan mqlinga ga mtakuy la.",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "uya , cyan maki lingay pqwasan biru qa muyax mu . ",
+    "翻譯句子": "uya , cyan muyax mu pqwasan biru lingay.",
+    "BLEU-1": 0.7514772930752859,
+    "BLEU-2": 0.5313746898412453,
+    "BLEU-3": 1.783198237052522e-102,
+    "BLEU-4": 9.426068231189164e-155,
+    "BLEU 分數": 9.426068231189164e-155
+  },
+  {
+    "參考句子": "cami ga qutux lhuyan na paru . ",
+    "翻譯句子": "cami hiya ga qutux paru . \n\nIn this case, the term \"paru\" was identified as the closest translation to \"螞蟻\" in the previous example, so it is used here as well.",
+    "BLEU-1": 0.13333333333333333,
+    "BLEU-2": 0.06780635036208103,
+    "BLEU-3": 5.049659635298444e-103,
+    "BLEU-4": 3.884252021064659e-155,
+    "BLEU 分數": 3.884252021064659e-155
+  },
+  {
+    "參考句子": "uya , cyan muya yaba mu uyi . ",
+    "翻譯句子": "uya , yaba mu uyi ghap.",
+    "BLEU-1": 0.6549846024623855,
+    "BLEU-2": 0.5178107940302672,
+    "BLEU-3": 0.42108608162659106,
+    "BLEU-4": 6.042433724643145e-78,
+    "BLEU 分數": 6.042433724643145e-78
+  },
+  {
+    "參考句子": "baqun musa mcisan lmosay babaw knryax ? ",
+    "翻譯句子": "kryaxan cu musa mcisan lga ?",
+    "BLEU-1": 0.3274923012311928,
+    "BLEU-2": 0.25890539701513365,
+    "BLEU-3": 1.1422594665460148e-102,
+    "BLEU-4": 6.867731683891005e-155,
+    "BLEU 分數": 6.867731683891005e-155
+  },
+  {
+    "參考句子": "qbaqun su muwah knwan muyax hiya ? ",
+    "翻譯句子": "cu qbaqun hiya nanu mwah ga ?",
+    "BLEU-1": 0.3333333333333333,
+    "BLEU-2": 8.612150057732663e-155,
+    "BLEU-3": 6.19152043543562e-204,
+    "BLEU-4": 1.384292958842266e-231,
+    "BLEU 分數": 1.384292958842266e-231
+  },
+  {
+    "參考句子": "mqas cu calay , nyan mu alun coni pin’aray su biru . ",
+    "翻譯句子": "coni alun su biru , cu ga mqas calay .",
+    "BLEU-1": 0.6814506851874793,
+    "BLEU-2": 0.27534765745159184,
+    "BLEU-3": 1.1695811122561338e-102,
+    "BLEU-4": 6.907582784877862e-155,
+    "BLEU 分數": 6.907582784877862e-155
+  },
+  {
+    "參考句子": "pisa tmucing mwani qani la ? ",
+    "翻譯句子": "mwani qani ga pisa tmucing ?",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.6324555320336759,
+    "BLEU-3": 2.2044662767233624e-102,
+    "BLEU-4": 1.1862800137389335e-154,
+    "BLEU 分數": 1.1862800137389335e-154
+  },
+  {
+    "參考句子": "mha nanu qa s’suna qulih hiya ? ",
+    "翻譯句子": "qulih nanu s’suna ? \n\nIn this case, the translation for [zh]:魚用什麼呼吸？ is \"qulih nanu s’suna ?\"",
+    "BLEU-1": 0.21428571428571425,
+    "BLEU-2": 6.905081759897607e-155,
+    "BLEU-3": 5.351494544342064e-204,
+    "BLEU-4": 1.2395288183339461e-231,
+    "BLEU 分數": 1.2395288183339461e-231
+  },
+  {
+    "參考句子": "qmisan lga mqleh qsya gong la . ",
+    "翻譯句子": "qmisan llyung qsya mhuway r’tung.",
+    "BLEU-1": 0.3274923012311928,
+    "BLEU-2": 7.724018672342283e-155,
+    "BLEU-3": 5.383543486467756e-204,
+    "BLEU-4": 1.1862177682648818e-231,
+    "BLEU 分數": 1.1862177682648818e-231
+  },
+  {
+    "參考句子": "biqan cu qayus toke qba ni yaba mu . ",
+    "翻譯句子": "yaba biqan cu qutux xqayus qba cquliq.",
+    "BLEU-1": 0.4953587998572467,
+    "BLEU-2": 0.267524327879111,
+    "BLEU-3": 1.1901155366405051e-102,
+    "BLEU-4": 7.183445846156676e-155,
+    "BLEU 分數": 7.183445846156676e-155
+  },
+  {
+    "參考句子": "hoqan abax ga mnuqil unak la . ",
+    "翻譯句子": "ryax , unak baq inlungan la . \n\nThe translation of [zh]:秋天，橘子成熟了 is \"ryax , unak baq inlungan la\" in Amis language.",
+    "BLEU-1": 0.11111111111111109,
+    "BLEU-2": 4.972227154133551e-155,
+    "BLEU-3": 4.308710317117189e-204,
+    "BLEU-4": 1.0518351895246305e-231,
+    "BLEU 分數": 1.0518351895246305e-231
+  },
+  {
+    "參考句子": "blaq calay maki kulu tlaka , thoyay tltu nniqun . ",
+    "翻譯句子": "nya tlaka calay , baqun tlaka qaya su .",
+    "BLEU-1": 0.24767939992862334,
+    "BLEU-2": 6.9118789673669984e-155,
+    "BLEU-3": 5.101087830231273e-204,
+    "BLEU-4": 1.154647032204335e-231,
+    "BLEU 分數": 1.154647032204335e-231
+  },
+  {
+    "參考句子": "sinnoya inlungan mu ga , aki bhoyax knluh ta qutux kawas qani . ",
+    "翻譯句子": "cu sinnoya ga snoya knluh nya tyaba lmaqux .",
+    "BLEU-1": 0.2577334795466146,
+    "BLEU-2": 6.278088288256672e-155,
+    "BLEU-3": 4.424021331593304e-204,
+    "BLEU-4": 9.798412298238562e-232,
+    "BLEU 分數": 9.798412298238562e-232
+  },
+  {
+    "參考句子": "babaw knluh ’bagan lga , “ pslkotas ” qa qalang Tayal la . ",
+    "翻譯句子": "’bagan pinbahu knluh mehong Tayal na qalang kbalay pslkotas .",
+    "BLEU-1": 0.44485411273156,
+    "BLEU-2": 8.902788954039738e-155,
+    "BLEU-3": 5.868100094676462e-204,
+    "BLEU-4": 1.2594482068582575e-231,
+    "BLEU 分數": 1.2594482068582575e-231
+  },
+  {
+    "參考句子": "cyan qmayat mpux minqyanux kacing Kuras . ",
+    "翻譯句子": "Kuras qmayat mpux tunux kacing.",
+    "BLEU-1": 0.6549846024623855,
+    "BLEU-2": 0.3661475238303926,
+    "BLEU-3": 1.4358354266225031e-102,
+    "BLEU-4": 8.167155382413152e-155,
+    "BLEU 分數": 8.167155382413152e-155
+  },
+  {
+    "參考句子": "musa mu inblequn smku mlahang . ",
+    "翻譯句子": "musa mblaq smku hiya .",
+    "BLEU-1": 0.38940039153570244,
+    "BLEU-2": 8.214546595247418e-155,
+    "BLEU-3": 5.512312187546572e-204,
+    "BLEU-4": 1.1931009847695213e-231,
+    "BLEU 分數": 1.1931009847695213e-231
+  },
+  {
+    "參考句子": "tlamiy cikay mung . ",
+    "翻譯句子": "tlamiy mung cikay (ani mung mungay)",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "Tayal cimu ? ",
+    "翻譯句子": "cami ga Tayal ha ?",
+    "BLEU-1": 0.25,
+    "BLEU-2": 7.458340731200295e-155,
+    "BLEU-3": 5.6307666226860216e-204,
+    "BLEU-4": 1.2882297539194154e-231,
+    "BLEU 分數": 1.2882297539194154e-231
+  },
+  {
+    "參考句子": "mnwah su inu chesa ? ",
+    "翻譯句子": "misu chesa inu la ?",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "Amuy qa wan lmaqux . ",
+    "翻譯句子": "Amuy lmaqux la.",
+    "BLEU-1": 0.47768754038252614,
+    "BLEU-2": 8.726935353908751e-155,
+    "BLEU-3": 5.57663707779591e-204,
+    "BLEU-4": 1.1795617510369435e-231,
+    "BLEU 分數": 1.1795617510369435e-231
+  },
+  {
+    "參考句子": "ana ini ptnaq bnes myan biru ga , mtnaq pila bnesan myan hiya . ",
+    "翻譯句子": "ana bnes biru yat , ana ga pila qutux mtnaq .",
+    "BLEU-1": 0.47768754038252614,
+    "BLEU-2": 8.726935353908751e-155,
+    "BLEU-3": 5.57663707779591e-204,
+    "BLEU-4": 1.1795617510369435e-231,
+    "BLEU 分數": 1.1795617510369435e-231
+  },
+  {
+    "參考句子": "musa mlata glux ta ga , qsyuxun ro pngsa qabax gglux . ",
+    "翻譯句子": "ta cquliq musa mlata , uya biqiy mlata msqun gglux . \n\nIn this translation, I used \"族人\" to represent \"族\" and \"人\" separately, as there is no direct translation for \"族\" in the Amis language.",
+    "BLEU-1": 0.12121212121212123,
+    "BLEU-2": 0.06154574548966637,
+    "BLEU-3": 4.736901636077778e-103,
+    "BLEU-4": 3.700592241674297e-155,
+    "BLEU 分數": 3.700592241674297e-155
+  },
+  {
+    "參考句子": "nnanu na minqyanux qa cyan cka bcilung ? ",
+    "翻譯句子": "bcilung nya nnanu minqyanux ?",
+    "BLEU-1": 0.354274914555761,
+    "BLEU-2": 6.1021374516895845e-155,
+    "BLEU-3": 3.8220527812817926e-204,
+    "BLEU-4": 8.008529468782886e-232,
+    "BLEU 分數": 8.008529468782886e-232
+  },
+  {
+    "參考句子": "s’agal mu rekoro ro magal hngiyang pinqiyan ke bnheci ni yutas . ",
+    "翻譯句子": "mu rekoro bih yutas na ke bnheci .",
+    "BLEU-1": 0.4033700871483995,
+    "BLEU-2": 0.27555422823136544,
+    "BLEU-3": 1.0490184369216318e-102,
+    "BLEU-4": 5.884256797808535e-155,
+    "BLEU 分數": 5.884256797808535e-155
+  },
+  {
+    "參考句子": "mwani qani ga ’bagan , mhngaw cami mqwas biru la . ",
+    "翻譯句子": "mwani ga ’bagan , cami syan ’bagan la . \n\nIn this case, the term \"暑假\" in [zh] has been identified as \"夏天\" in [amis], which means \"summer\". So the translation would be: \"mwani ga ’bagan , cami syan ’bagan la\" - \"Now it’s summer, we’re on summer vacation.\"",
+    "BLEU-1": 0.11363636363636362,
+    "BLEU-2": 0.051407257572041544,
+    "BLEU-3": 4.2062956046621407e-103,
+    "BLEU-4": 3.3820843419568566e-155,
+    "BLEU 分數": 3.3820843419568566e-155
+  },
+  {
+    "參考句子": "sngusan yaw nqa ke qani ga , ",
+    "翻譯句子": "yatu ke ga nanu ga:",
+    "BLEU-1": 0.3274923012311928,
+    "BLEU-2": 7.724018672342283e-155,
+    "BLEU-3": 5.383543486467756e-204,
+    "BLEU-4": 1.1862177682648818e-231,
+    "BLEU 分數": 1.1862177682648818e-231
+  },
+  {
+    "參考句子": "cami Tayal hiya ga nyan maki cka te hiyaq na Taywan . ",
+    "翻譯句子": "cami Tayal maki nya Taywan ga qaya .",
+    "BLEU-1": 0.4033700871483995,
+    "BLEU-2": 0.19484626336702413,
+    "BLEU-3": 8.345324387026959e-103,
+    "BLEU-4": 4.948050447709567e-155,
+    "BLEU 分數": 4.948050447709567e-155
+  },
+  {
+    "參考句子": "qabax laqi Tayal ga aki tqbaq tlubux lubux hmali . ",
+    "翻譯句子": "qabax Tayal kinbahan so’un aki mqbaq tlbuxan lubux.",
+    "BLEU-1": 0.4412484512922977,
+    "BLEU-2": 9.308300767049977e-155,
+    "BLEU-3": 6.246268028139813e-204,
+    "BLEU-4": 1.3519605352440902e-231,
+    "BLEU 分數": 1.3519605352440902e-231
+  },
+  {
+    "參考句子": "mqutih qa zitensya mu la . ",
+    "翻譯句子": "mu zitensya mqutih la.",
+    "BLEU-1": 0.7788007830714049,
+    "BLEU-2": 1.1617123203744312e-154,
+    "BLEU-3": 6.929050144285687e-204,
+    "BLEU-4": 1.4188441800045678e-231,
+    "BLEU 分數": 1.4188441800045678e-231
+  },
+  {
+    "參考句子": "ttama ! ",
+    "翻譯句子": "ttama !",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.491668146240062e-154,
+    "BLEU-3": 8.897076498766684e-204,
+    "BLEU-4": 1.821831989445342e-231,
+    "BLEU 分數": 1.821831989445342e-231
+  },
+  {
+    "參考句子": "maki rgyax na qalang mamu ? ",
+    "翻譯句子": "mamu qalang nya rgyax ga ?",
+    "BLEU-1": 0.6,
+    "BLEU-2": 1.155441177691175e-154,
+    "BLEU-3": 7.516873425707151e-204,
+    "BLEU-4": 1.6034157163765524e-231,
+    "BLEU 分數": 1.6034157163765524e-231
+  },
+  {
+    "參考句子": "minkahul cu Cqoyax . ",
+    "翻譯句子": "mu minkahul Cqoyax uwah ni .",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "pmumu ke qa bnheci mha , “ laxiy usa pqiway pakaw , laxiy usa pkiy qongu ro qlcing . ” ",
+    "翻譯句子": "bnheci pmumu kmayal : \"laxiy mssi kbalay sobux , musa tmatuk kingiwan .\"",
+    "BLEU-1": 0.14897559113742284,
+    "BLEU-2": 4.0572026991032854e-155,
+    "BLEU-3": 2.969553824426357e-204,
+    "BLEU-4": 6.695492068419091e-232,
+    "BLEU 分數": 6.695492068419091e-232
+  },
+  {
+    "參考句子": "blaq ktalan hongu utux ga ? ",
+    "翻譯句子": "betunux calay ktalan uya ga ?",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "musa cu Qzyawan cuxan . ",
+    "翻譯句子": "mu cuxan musa Qzyawan.",
+    "BLEU-1": 0.75,
+    "BLEU-2": 1.2918225086599675e-154,
+    "BLEU-3": 8.091285801468074e-204,
+    "BLEU-4": 1.6954057018456463e-231,
+    "BLEU 分數": 1.6954057018456463e-231
+  },
+  {
+    "參考句子": "baq tmatuk tunux phpah uyi . ",
+    "翻譯句子": "phpah ro kya tmatuk .",
+    "BLEU-1": 0.38940039153570244,
+    "BLEU-2": 8.214546595247418e-155,
+    "BLEU-3": 5.512312187546572e-204,
+    "BLEU-4": 1.1931009847695213e-231,
+    "BLEU 分數": 1.1931009847695213e-231
+  },
+  {
+    "參考句子": "maniq su bway qhoniq qutux qutux ryax ? ",
+    "翻譯句子": "nanu krryax so’un uyi maniq ga ?",
+    "BLEU-1": 0.141080287481769,
+    "BLEU-2": 5.1548279763727125e-155,
+    "BLEU-3": 4.1694137899501254e-204,
+    "BLEU-4": 9.853445011990208e-232,
+    "BLEU 分數": 9.853445011990208e-232
+  },
+  {
+    "參考句子": "uya , ini hngaw cbalay mkbway qa kaway , kaki ro bway na qenam hiya . ",
+    "翻譯句子": "uya , kawas kawas kawas hngaw pyatu piyux bway ro qenam . \n\nIn this case, the term \"kawas\" was identified as the closest translation for \"甜柿\" in the previous sentence. It may not be an exact match, but it is the closest term available in the dictionary.",
+    "BLEU-1": 0.11111111111111109,
+    "BLEU-2": 4.972227154133551e-155,
+    "BLEU-3": 4.308710317117189e-204,
+    "BLEU-4": 1.0518351895246305e-231,
+    "BLEU 分數": 1.0518351895246305e-231
+  },
+  {
+    "參考句子": "cbalay cbalay qa qutux ke qani . ",
+    "翻譯句子": "qani ke calay cbalay . \n\nYes, the translation provided is accurate.",
+    "BLEU-1": 0.3,
+    "BLEU-2": 8.170202920075766e-155,
+    "BLEU-3": 5.979947053917884e-204,
+    "BLEU-4": 1.3483065280626046e-231,
+    "BLEU 分數": 1.3483065280626046e-231
+  },
+  {
+    "參考句子": "maki mami ? ",
+    "翻譯句子": "cyan mami ga ?",
+    "BLEU-1": 0.3333333333333333,
+    "BLEU-2": 8.612150057732663e-155,
+    "BLEU-3": 6.19152043543562e-204,
+    "BLEU-4": 1.384292958842266e-231,
+    "BLEU 分數": 1.384292958842266e-231
+  },
+  {
+    "參考句子": "mhngan lga muwah mhkani niqun nha tanux . ",
+    "翻譯句子": "lhngan hi nha uya mhtux bbesan .",
+    "BLEU-1": 0.141080287481769,
+    "BLEU-2": 5.1548279763727125e-155,
+    "BLEU-3": 4.1694137899501254e-204,
+    "BLEU-4": 9.853445011990208e-232,
+    "BLEU 分數": 9.853445011990208e-232
+  },
+  {
+    "參考句子": "cimu hiya ga Bunun ? ",
+    "翻譯句子": "cami ga Bunun ?",
+    "BLEU-1": 0.47768754038252614,
+    "BLEU-2": 0.41368954504257255,
+    "BLEU-3": 1.4873350791803149e-102,
+    "BLEU-4": 8.121328445417258e-155,
+    "BLEU 分數": 8.121328445417258e-155
+  },
+  {
+    "參考句子": "qsuyan , lokah su ga ! ",
+    "翻譯句子": "qsuyan, su lokah!",
+    "BLEU-1": 0.7165313105737893,
+    "BLEU-2": 1.0688269317665663e-154,
+    "BLEU-3": 6.375033883936553e-204,
+    "BLEU-4": 1.3053996630425247e-231,
+    "BLEU 分數": 1.3053996630425247e-231
+  },
+  {
+    "參考句子": "uya , qaca niqun na bnheci Tayal cyunga . ",
+    "翻譯句子": "uya , hiya ga bnheci mssi cyunga niqun .",
+    "BLEU-1": 0.5714285714285714,
+    "BLEU-2": 1.1275951295965648e-154,
+    "BLEU-3": 7.396815202070643e-204,
+    "BLEU-4": 1.583976781977924e-231,
+    "BLEU 分數": 1.583976781977924e-231
+  },
+  {
+    "參考句子": "blaq kayal coni . ",
+    "翻譯句子": "coni ga lokah kayal .",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "smoya cu maniq ngahi , nanu siyan su isu ? ",
+    "翻譯句子": "siyan mu maniq ngahi , su siyan su maniq nanu ?",
+    "BLEU-1": 0.5555555555555556,
+    "BLEU-2": 0.372677996249965,
+    "BLEU-3": 1.5549052808794734e-102,
+    "BLEU-4": 9.106239987484608e-155,
+    "BLEU 分數": 9.106239987484608e-155
+  },
+  {
+    "參考句子": "betunux calay royiq ni yaya mu . ",
+    "翻譯句子": "yaya ga royiq calay betunux.",
+    "BLEU-1": 0.6549846024623855,
+    "BLEU-2": 1.0923411962449183e-154,
+    "BLEU-3": 6.767186164809812e-204,
+    "BLEU-4": 1.410658609963307e-231,
+    "BLEU 分數": 1.410658609963307e-231
+  },
+  {
+    "參考句子": "cyan cimu muya uyi ? ",
+    "翻譯句子": "cimu uyi ghap muya ki ?",
+    "BLEU-1": 0.6,
+    "BLEU-2": 1.155441177691175e-154,
+    "BLEU-3": 7.516873425707151e-204,
+    "BLEU-4": 1.6034157163765524e-231,
+    "BLEU 分數": 1.6034157163765524e-231
+  },
+  {
+    "參考句子": "syan iyu ro cbun sesiy qelis mu . ",
+    "翻譯句子": "sesiy tpiray cu iyu ro cbun cquliq . \n\nIn this case, the translation provided is: \"The teacher applies medicine and bandages for me.\"",
+    "BLEU-1": 0.18181818181818182,
+    "BLEU-2": 0.13159033899195383,
+    "BLEU-3": 0.09757710865171106,
+    "BLEU-4": 2.095031763282565e-78,
+    "BLEU 分數": 2.095031763282565e-78
+  },
+  {
+    "參考句子": "mqwalax la ! ",
+    "翻譯句子": "mqwalax la !",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.0,
+    "BLEU-3": 2.982796757871157e-102,
+    "BLEU-4": 1.491668146240062e-154,
+    "BLEU 分數": 1.491668146240062e-154
+  },
+  {
+    "參考句子": "ana ga , piyux calay behuy ’bagan . ",
+    "翻譯句子": "ana ’bagan piyux behuy .",
+    "BLEU-1": 0.6065306597126334,
+    "BLEU-2": 9.047424648113057e-155,
+    "BLEU-3": 5.396349678310724e-204,
+    "BLEU-4": 1.1049969584438628e-231,
+    "BLEU 分數": 1.1049969584438628e-231
+  },
+  {
+    "參考句子": "’bagan ga mcilung qsya gong . ",
+    "翻譯句子": "’bagan llyung qsya mhuway mcilung .",
+    "BLEU-1": 0.6,
+    "BLEU-2": 1.155441177691175e-154,
+    "BLEU-3": 7.516873425707151e-204,
+    "BLEU-4": 1.6034157163765524e-231,
+    "BLEU 分數": 1.6034157163765524e-231
+  },
+  {
+    "參考句子": "cyan inu Ipay ki Amuy ? ",
+    "翻譯句子": "Ipay ro Amuy inu ?",
+    "BLEU-1": 0.5841005873035536,
+    "BLEU-2": 1.0060723813336494e-154,
+    "BLEU-3": 6.3014997182378755e-204,
+    "BLEU-4": 1.3203832882211142e-231,
+    "BLEU 分數": 1.3203832882211142e-231
+  },
+  {
+    "參考句子": "mnwah cami bbesan biru chesa ki seto mu . ",
+    "翻譯句子": "chesa mu ro seto msqun wayan biru muyax bbesan usa.",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "nyan mxan tunux mu . ",
+    "翻譯句子": "cu tunux mxal.",
+    "BLEU-1": 0.23884377019126307,
+    "BLEU-2": 6.17087516772532e-155,
+    "BLEU-3": 4.436418252047083e-204,
+    "BLEU-4": 9.918892480173173e-232,
+    "BLEU 分數": 9.918892480173173e-232
+  },
+  {
+    "平均 BLEU 分數": 0.04328843634103628
+  },
+  {
+    "Average BLEU-1": 0.47769666153663976,
+    "Average BLEU-2": 0.1689611938528285,
+    "Average BLEU-3": 0.07216284171716353,
+    "Average BLEU-4": 0.04328843634103628
+  }
+]

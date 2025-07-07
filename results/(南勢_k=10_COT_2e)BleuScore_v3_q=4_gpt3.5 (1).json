@@ -1,0 +1,911 @@
+[
+  {
+    "參考句子": "Ira ku vuting , urang atu kalang i liyal . ",
+    "翻譯句子": "Liyal ku vuting, urang atu kalang .",
+    "BLEU-1": 0.7165313105737893,
+    "BLEU-2": 0.6408850873800026,
+    "BLEU-3": 0.6053758409164834,
+    "BLEU-4": 0.5698363775444273,
+    "BLEU 分數": 0.5698363775444273
+  },
+  {
+    "參考句子": "Lima tungalan tu siwa , savaw tu sepat a makumud . ca’ay katekes . ",
+    "翻譯句子": "Lalima tungalan siwa’ay , makumud tamdaw . Ca’ay katekes .",
+    "BLEU-1": 0.32269606971871956,
+    "BLEU-2": 0.1742757960201972,
+    "BLEU-3": 7.752877435421572e-103,
+    "BLEU-4": 4.679577191845681e-155,
+    "BLEU 分數": 4.679577191845681e-155
+  },
+  {
+    "參考句子": "Siruma , pavalici’ kaku tu tusa nu limaay a karivuwa’ . ",
+    "翻譯句子": "Siruma , kisu dengay pavalici’ han nu maku tamdaw a lalima .",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "Parengrengen nu matu’asay kami . ",
+    "翻譯句子": "Matu’asay ku nika a masadak miheca a salipahak ni nipilaylay .",
+    "BLEU-1": 0.10000000000000002,
+    "BLEU-2": 4.717068855239749e-155,
+    "BLEU-3": 4.16147533319354e-204,
+    "BLEU-4": 1.0244914152188952e-231,
+    "BLEU 分數": 1.0244914152188952e-231
+  },
+  {
+    "參考句子": "Pavelian nu wama kaku tu valuhay a tuki . ",
+    "翻譯句子": "Wama Pavelian kaku tuki tamedaw.",
+    "BLEU-1": 0.43904930887522114,
+    "BLEU-2": 7.322182009535188e-155,
+    "BLEU-3": 4.536180541527054e-204,
+    "BLEU-4": 9.455927443711748e-232,
+    "BLEU 分數": 9.455927443711748e-232
+  },
+  {
+    "參考句子": "Mangalay kaku a keman tu tali . ",
+    "翻譯句子": "U ma’an ku kangalayan nu tali.",
+    "BLEU-1": 0.16666666666666669,
+    "BLEU-2": 6.08970970641905e-155,
+    "BLEU-3": 4.9255803963031984e-204,
+    "BLEU-4": 1.1640469867513693e-231,
+    "BLEU 分數": 1.1640469867513693e-231
+  },
+  {
+    "參考句子": "Kiyanca ca’ay kalecad ku nicakayan nu niyam a cudad , nika malecad ku aca . ",
+    "翻譯句子": "Kiyanca kami a nicakayan i cudad ca’ayay , nika aca malecad .",
+    "BLEU-1": 0.5185727544772025,
+    "BLEU-2": 9.245552970494436e-155,
+    "BLEU-3": 5.8592406190047766e-204,
+    "BLEU-4": 1.2345096496782731e-231,
+    "BLEU 分數": 1.2345096496782731e-231
+  },
+  {
+    "參考句子": "Adihay ku lutuk nu Taywan . ",
+    "翻譯句子": "Taywan ira adihay ku lutuk .",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.6324555320336759,
+    "BLEU-3": 0.5143157015215767,
+    "BLEU-4": 7.380245217279165e-78,
+    "BLEU 分數": 7.380245217279165e-78
+  },
+  {
+    "參考句子": "Mavana’ haw kisu a semuwal tu nu Pangcah ? ",
+    "翻譯句子": "Mavana’ haw kisu a sanu nu Pangcah ?",
+    "BLEU-1": 0.7430381997858699,
+    "BLEU-2": 0.6552980970848462,
+    "BLEU-3": 0.5326417101825478,
+    "BLEU-4": 0.42383656282787796,
+    "BLEU 分數": 0.42383656282787796
+  },
+  {
+    "參考句子": "U kasuvucan nu vayi anucila . ",
+    "翻譯句子": "Anucila ci vayiyan tu kasuvucan .",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "U mimaanay ku demak nu nira ? ",
+    "翻譯句子": "Nira anu mimaanay kapahay tamedaw ?",
+    "BLEU-1": 0.3274923012311928,
+    "BLEU-2": 7.724018672342283e-155,
+    "BLEU-3": 5.383543486467756e-204,
+    "BLEU-4": 1.1862177682648818e-231,
+    "BLEU 分數": 1.1862177682648818e-231
+  },
+  {
+    "參考句子": "Usay , icuwaan ku sa’ung nu misu ? ",
+    "翻譯句子": "Usay , sa’ung nu maku cacayen saw ?",
+    "BLEU-1": 0.5,
+    "BLEU-2": 0.316227766016838,
+    "BLEU-3": 1.3951588629738666e-102,
+    "BLEU-4": 8.38826642100846e-155,
+    "BLEU 分數": 8.38826642100846e-155
+  },
+  {
+    "參考句子": "Masadak ku vulad , mapalal ku tu’ul . ",
+    "翻譯句子": "Vulad cacayen masavak , tu’ul tamdaw .",
+    "BLEU-1": 0.3274923012311928,
+    "BLEU-2": 7.724018672342283e-155,
+    "BLEU-3": 5.383543486467756e-204,
+    "BLEU-4": 1.1862177682648818e-231,
+    "BLEU 分數": 1.1862177682648818e-231
+  },
+  {
+    "參考句子": "Anu mavana’ tu kaku a misurit , ",
+    "翻譯句子": "Anu mavana’ kaku a misurit nu tamdaw ,",
+    "BLEU-1": 0.7142857142857143,
+    "BLEU-2": 0.5976143046671969,
+    "BLEU-3": 0.4185793008243382,
+    "BLEU-4": 6.313993041533344e-78,
+    "BLEU 分數": 6.313993041533344e-78
+  },
+  {
+    "參考句子": "U mawmahay ku wama nu maku , ",
+    "翻譯句子": "Maku ci wama ku mawmahay .",
+    "BLEU-1": 0.6549846024623855,
+    "BLEU-2": 1.0923411962449183e-154,
+    "BLEU-3": 6.767186164809812e-204,
+    "BLEU-4": 1.410658609963307e-231,
+    "BLEU 分數": 1.410658609963307e-231
+  },
+  {
+    "參考句子": "Pina a tatukiyan kiya tangasa i Taypak ? ",
+    "翻譯句子": "Tala i Taypak aw masakaput a tatukiyan kiya tangasa ?",
+    "BLEU-1": 0.6666666666666666,
+    "BLEU-2": 0.5773502691896257,
+    "BLEU-3": 0.46026455517844755,
+    "BLEU-4": 0.3549481056010053,
+    "BLEU 分數": 0.3549481056010053
+  },
+  {
+    "參考句子": "Patata ku valuhay a maramuday tu titi nu vavuy atu ’epah a pakaen tu laluma’an . ",
+    "翻譯句子": "Payu atu vavahi , mavana’ tu titi atu sapad hen cavay .",
+    "BLEU-1": 0.18195919791379003,
+    "BLEU-2": 0.11073684138103304,
+    "BLEU-3": 5.888794611919261e-103,
+    "BLEU-4": 3.865846993487796e-155,
+    "BLEU 分數": 3.865846993487796e-155
+  },
+  {
+    "參考句子": "Vangecal ku mata nu wina . ",
+    "翻譯句子": "Ina nu mata saka’ulahan .",
+    "BLEU-1": 0.38940039153570244,
+    "BLEU-2": 8.214546595247418e-155,
+    "BLEU-3": 5.512312187546572e-204,
+    "BLEU-4": 1.1931009847695213e-231,
+    "BLEU 分數": 1.1931009847695213e-231
+  },
+  {
+    "參考句子": "U vava’inay kisu . ",
+    "翻譯句子": "Kisu hay vava’inay ?",
+    "BLEU-1": 0.6666666666666666,
+    "BLEU-2": 1.2179419412838124e-154,
+    "BLEU-3": 7.782823995967754e-204,
+    "BLEU-4": 1.646211035903463e-231,
+    "BLEU 分數": 1.646211035903463e-231
+  },
+  {
+    "參考句子": "enemay ku tuki nu maku a lemuwad . ",
+    "翻譯句子": "Kaku ku tuki tu davak .",
+    "BLEU-1": 0.26812801841425576,
+    "BLEU-2": 0.21197381067415422,
+    "BLEU-3": 9.352029532556724e-103,
+    "BLEU-4": 5.6228231334895985e-155,
+    "BLEU 分數": 5.6228231334895985e-155
+  },
+  {
+    "參考句子": "Pa’ing’ing han ku tireng i cidal , ",
+    "翻譯句子": "Tireng pa’ing’ing maka cidal sasa.",
+    "BLEU-1": 0.49123845184678916,
+    "BLEU-2": 9.459952255484061e-155,
+    "BLEU-3": 6.154295440621086e-204,
+    "BLEU-4": 1.3127657569660467e-231,
+    "BLEU 分數": 1.3127657569660467e-231
+  },
+  {
+    "參考句子": "U nu pasevana’ay kira lahengangay a cudad . ",
+    "翻譯句子": "Lahengangay cudad hay pasevana’ay.",
+    "BLEU-1": 0.354274914555761,
+    "BLEU-2": 6.1021374516895845e-155,
+    "BLEU-3": 3.8220527812817926e-204,
+    "BLEU-4": 8.008529468782886e-232,
+    "BLEU 分數": 8.008529468782886e-232
+  },
+  {
+    "參考句子": "Nika , adidi ku nanum nu tarawadaw i kasinawan . ",
+    "翻譯句子": "Nika , tangasatu kasinawan sa’uwac nanum adidi .",
+    "BLEU-1": 0.47768754038252614,
+    "BLEU-2": 8.726935353908751e-155,
+    "BLEU-3": 5.57663707779591e-204,
+    "BLEU-4": 1.1795617510369435e-231,
+    "BLEU 分數": 1.1795617510369435e-231
+  },
+  {
+    "參考句子": "U supsup nu nika’urip nu tu’as kinian . ",
+    "翻譯句子": "Iniyan satu unu ’urip ni matu’astu nu kapahay .",
+    "BLEU-1": 0.12500000000000003,
+    "BLEU-2": 5.273843307431707e-155,
+    "BLEU-3": 4.4794802798562165e-204,
+    "BLEU-4": 1.0832677820940877e-231,
+    "BLEU 分數": 1.0832677820940877e-231
+  },
+  {
+    "參考句子": "anu matengil ku suni nu tatakula’ tu sansandev , a kapah ku remi’ad tu cila . ",
+    "翻譯句子": "Anu sansandev mitengil tatakula’ , kira milimek remi’ad a tamedaw .",
+    "BLEU-1": 0.3187519004096849,
+    "BLEU-2": 6.379127036999949e-155,
+    "BLEU-3": 4.204677451416702e-204,
+    "BLEU-4": 9.024340742599561e-232,
+    "BLEU 分數": 9.024340742599561e-232
+  },
+  {
+    "參考句子": "Matiya u mita’ungay ku varu . ",
+    "翻譯句子": "Varu wawa matiya u mita’ungay .",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.6324555320336759,
+    "BLEU-3": 0.5143157015215767,
+    "BLEU-4": 7.380245217279165e-78,
+    "BLEU 分數": 7.380245217279165e-78
+  },
+  {
+    "參考句子": "Unu aniniay a nipatireng , sikacaluway nu ’urip nu mita . ",
+    "翻譯句子": "Masadakay kapahay sivuduy kamay niyam ’urip panukasay tamdaw .",
+    "BLEU-1": 0.11031211282307446,
+    "BLEU-2": 4.654150383524979e-155,
+    "BLEU-3": 3.953127472161888e-204,
+    "BLEU-4": 9.55980462367717e-232,
+    "BLEU 分數": 9.55980462367717e-232
+  },
+  {
+    "參考句子": "Aka ka’utang a tala cacudadan ! ",
+    "翻譯句子": "Tala cacudadan na’ay ka’utang!",
+    "BLEU-1": 0.5841005873035536,
+    "BLEU-2": 0.3894003915357024,
+    "BLEU-3": 1.4701791006940697e-102,
+    "BLEU-4": 8.214546595247418e-155,
+    "BLEU 分數": 8.214546595247418e-155
+  },
+  {
+    "參考句子": "Madengay aca a tala Yu-ci a misinga’ a miala tu pida atu patayra tu sapacudad . ",
+    "翻譯句子": "Aca dengay kita a tayra i tamdaw supedsa pida , atu pida atu nipacudad .",
+    "BLEU-1": 0.263816590510905,
+    "BLEU-2": 0.13729450664040765,
+    "BLEU-3": 7.634099329273511e-103,
+    "BLEU-4": 5.117896846873718e-155,
+    "BLEU 分數": 5.117896846873718e-155
+  },
+  {
+    "參考句子": "Mana’un ku apuru’ay , cacay a remi’ad kina tusa a maliyut . ",
+    "翻譯句子": "Adidi ku rinum , mana’un a remi’ad culu’en .",
+    "BLEU-1": 0.37225089001774603,
+    "BLEU-2": 0.2010384577463796,
+    "BLEU-3": 8.94344801921448e-103,
+    "BLEU-4": 5.3981964394227255e-155,
+    "BLEU 分數": 5.3981964394227255e-155
+  },
+  {
+    "參考句子": "Kahina ka’en tu heci nu lusay , kiya kapah ku tireng . ",
+    "翻譯句子": "Kahina ka’enen heci nu lusay , tireng kiya taratara:kaw .",
+    "BLEU-1": 0.5841005873035536,
+    "BLEU-2": 0.3605147093430547,
+    "BLEU-3": 0.25933684865006573,
+    "BLEU-4": 4.134975870071536e-78,
+    "BLEU 分數": 4.134975870071536e-78
+  },
+  {
+    "參考句子": "U , talumatu haw kisu nay cacudadan ! ",
+    "翻譯句子": "A , kisu mimelaw dademaktu !",
+    "BLEU-1": 0.15163266492815836,
+    "BLEU-2": 4.523712324056519e-155,
+    "BLEU-3": 3.41523259434563e-204,
+    "BLEU-4": 7.813508425061864e-232,
+    "BLEU 分數": 7.813508425061864e-232
+  },
+  {
+    "參考句子": "Pina’ay ku tuki anini ? ",
+    "翻譯句子": "Anini tuki ?",
+    "BLEU-1": 0.36787944117144233,
+    "BLEU-2": 5.487540440520353e-155,
+    "BLEU-3": 3.2730515304258605e-204,
+    "BLEU-4": 6.702145341854094e-232,
+    "BLEU 分數": 6.702145341854094e-232
+  },
+  {
+    "參考句子": "Muketep ku siri ni Kulas . ",
+    "翻譯句子": "Kulas ira muketeptu kaysing siri .",
+    "BLEU-1": 0.4,
+    "BLEU-2": 9.434137710479516e-155,
+    "BLEU-3": 6.575474863046933e-204,
+    "BLEU-4": 1.4488496539373276e-231,
+    "BLEU 分數": 1.4488496539373276e-231
+  },
+  {
+    "參考句子": "Nanu vavayuh cira . ",
+    "翻譯句子": "Cira tamedaw cacayen vavayuh .",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "U wina nu maku cira . ",
+    "翻譯句子": "Cira anu wina nu maku .",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.6324555320336759,
+    "BLEU-3": 0.5143157015215767,
+    "BLEU-4": 7.380245217279165e-78,
+    "BLEU 分數": 7.380245217279165e-78
+  },
+  {
+    "參考句子": "U Pangcah amin ku tamdaw nu niyaru’ niyam . ",
+    "翻譯句子": "Ira ku revung nu niyaru’ amin Pangcah tamedaw .",
+    "BLEU-1": 0.625,
+    "BLEU-2": 0.2988071523335984,
+    "BLEU-3": 1.3439456777000392e-102,
+    "BLEU-4": 8.15394372921771e-155,
+    "BLEU 分數": 8.15394372921771e-155
+  },
+  {
+    "參考句子": "U ma’an ku ira’ay i liyal ? ",
+    "翻譯句子": "Liyal ku ma’an ?",
+    "BLEU-1": 0.36787944117144233,
+    "BLEU-2": 5.487540440520353e-155,
+    "BLEU-3": 3.2730515304258605e-204,
+    "BLEU-4": 6.702145341854094e-232,
+    "BLEU 分數": 6.702145341854094e-232
+  },
+  {
+    "參考句子": "Ca’ay katenes , a initu . ",
+    "翻譯句子": "Ca’ay kappah tamedaw , tamdaw taluma .",
+    "BLEU-1": 0.2,
+    "BLEU-2": 6.6709427497276e-155,
+    "BLEU-3": 5.231030151567236e-204,
+    "BLEU-4": 1.2183324802375697e-231,
+    "BLEU 分數": 1.2183324802375697e-231
+  },
+  {
+    "參考句子": "U tengil nu maku , mapaherektu nu misu ku nipicudad , a malapasevana’aytu kisu saan . ",
+    "翻譯句子": "Tengil suwalsa kisu mapaherektu , aw nika pasevana’ay .",
+    "BLEU-1": 0.18187407671869282,
+    "BLEU-2": 4.144111291313716e-155,
+    "BLEU-3": 2.8547137872142404e-204,
+    "BLEU-4": 6.255495473556936e-232,
+    "BLEU 分數": 6.255495473556936e-232
+  },
+  {
+    "參考句子": "U mahetikay i sera a pusak atu cirekay , ",
+    "翻譯句子": "pusak ku sera i kudul nu maku atu cirekay ,",
+    "BLEU-1": 0.5555555555555556,
+    "BLEU-2": 0.26352313834736496,
+    "BLEU-3": 1.236983879722816e-102,
+    "BLEU-4": 7.657404561915943e-155,
+    "BLEU 分數": 7.657404561915943e-155
+  },
+  {
+    "參考句子": "Tawki , micakay kaku tu sapisurit atu sasuritan . ",
+    "翻譯句子": "Tawki , ini ku micakay sapisurit atu sasuritan .",
+    "BLEU-1": 0.7142857142857143,
+    "BLEU-2": 0.48795003647426655,
+    "BLEU-3": 0.3661572458236839,
+    "BLEU-4": 5.705336763108155e-78,
+    "BLEU 分數": 5.705336763108155e-78
+  },
+  {
+    "參考句子": "Ca’ay kavana’ kaku . ",
+    "翻譯句子": "Mamaanay ku.",
+    "BLEU-1": 0,
+    "BLEU-2": 0,
+    "BLEU-3": 0,
+    "BLEU-4": 0,
+    "BLEU 分數": 0
+  },
+  {
+    "參考句子": "Mivaca’ ci ina tu vuduy i sa’uwac . ",
+    "翻譯句子": "Ina maka sa’uwac i vuduy .",
+    "BLEU-1": 0.5362560368285115,
+    "BLEU-2": 8.943333302197054e-155,
+    "BLEU-3": 5.540503424933637e-204,
+    "BLEU-4": 1.1549495860711975e-231,
+    "BLEU 分數": 1.1549495860711975e-231
+  },
+  {
+    "參考句子": "Hacuwa a miviyuk ? ",
+    "翻譯句子": "Ma’an tamdaw kapah miviyuk su’emetay ?",
+    "BLEU-1": 0.2,
+    "BLEU-2": 6.6709427497276e-155,
+    "BLEU-3": 5.231030151567236e-204,
+    "BLEU-4": 1.2183324802375697e-231,
+    "BLEU 分數": 1.2183324802375697e-231
+  },
+  {
+    "參考句子": "Satukian nu maku tu remiremi’ad . ",
+    "翻譯句子": "Misurit kaku tu situper nu remiremi’ad .",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "Pahanhantu namicudad , taputal kaku . ",
+    "翻譯句子": "Mucerem , kaku rakat hen picudadan .",
+    "BLEU-1": 0.2,
+    "BLEU-2": 6.6709427497276e-155,
+    "BLEU-3": 5.231030151567236e-204,
+    "BLEU-4": 1.2183324802375697e-231,
+    "BLEU 分數": 1.2183324802375697e-231
+  },
+  {
+    "參考句子": "Tengilen ! ",
+    "翻譯句子": "Tengilen !",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.491668146240062e-154,
+    "BLEU-3": 8.897076498766684e-204,
+    "BLEU-4": 1.821831989445342e-231,
+    "BLEU 分數": 1.821831989445342e-231
+  },
+  {
+    "參考句子": "Salikulay maleka micakay kami a tatusa tu malcaday a cu-tin . ",
+    "翻譯句子": "Siheci kami a tamedaw tamedaw a nicakay cacayen malcaday cu-tin .",
+    "BLEU-1": 0.5,
+    "BLEU-2": 0.2357022603955158,
+    "BLEU-3": 1.149168560061151e-102,
+    "BLEU-4": 7.241926111174567e-155,
+    "BLEU 分數": 7.241926111174567e-155
+  },
+  {
+    "參考句子": "Adihay ku karireng i lalan . ",
+    "翻譯句子": "Lalan ku karireng adihay .",
+    "BLEU-1": 0.7788007830714049,
+    "BLEU-2": 0.4496408417513669,
+    "BLEU-3": 1.6165905205560618e-102,
+    "BLEU-4": 8.827104774815964e-155,
+    "BLEU 分數": 8.827104774815964e-155
+  },
+  {
+    "參考句子": "Pinatu ku miheca’an nu misu ? ",
+    "翻譯句子": "Mipalita’a hen kaku i anini a miheca’an ?",
+    "BLEU-1": 0.14285714285714285,
+    "BLEU-2": 5.637975647982813e-155,
+    "BLEU-3": 4.6812838082003045e-204,
+    "BLEU-4": 1.1200407237786664e-231,
+    "BLEU 分數": 1.1200407237786664e-231
+  },
+  {
+    "參考句子": "Icuwa ku sapisurit nu misu ? ",
+    "翻譯句子": "Icuwa ku sapisurit nu maku ?",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.7745966692414834,
+    "BLEU-3": 0.7390601692542802,
+    "BLEU-4": 0.668740304976422,
+    "BLEU 分數": 0.668740304976422
+  },
+  {
+    "參考句子": "Suwalsa ku pasevana’ay , “ Anu supedsa , araw adi:hay aca . ” ",
+    "翻譯句子": "Pasuvana’ay , suwalsa : \"supedsa payu\" .",
+    "BLEU-1": 0.11156508007421491,
+    "BLEU-2": 2.3535070035699275e-155,
+    "BLEU-3": 1.5793038835229808e-204,
+    "BLEU-4": 3.418291552750845e-232,
+    "BLEU 分數": 3.418291552750845e-232
+  },
+  {
+    "參考句子": "Maratar haw vaki ! ",
+    "翻譯句子": "Maratar haw vaki !",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.0,
+    "BLEU-3": 1.0,
+    "BLEU-4": 1.2213386697554703e-77,
+    "BLEU 分數": 1.2213386697554703e-77
+  },
+  {
+    "參考句子": "Kamaru’ ! ",
+    "翻譯句子": "Kamaru’!",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.491668146240062e-154,
+    "BLEU-3": 8.897076498766684e-204,
+    "BLEU-4": 1.821831989445342e-231,
+    "BLEU 分數": 1.821831989445342e-231
+  },
+  {
+    "參考句子": "Mipalita’a hen kaku i tisuwanan , icuwa ku Pa-rik ? ",
+    "翻譯句子": "Mipalita’a, Pa-rik icuwa:tu ?",
+    "BLEU-1": 0.12591706855837456,
+    "BLEU-2": 2.300395183811304e-155,
+    "BLEU-3": 1.4699855740170515e-204,
+    "BLEU-4": 3.1092910180411374e-232,
+    "BLEU 分數": 3.1092910180411374e-232
+  },
+  {
+    "參考句子": "Icuwa ku luma’ nu misu ? ",
+    "翻譯句子": "Icuwa ku luma’ nu namu ?",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.7745966692414834,
+    "BLEU-3": 0.7390601692542802,
+    "BLEU-4": 0.668740304976422,
+    "BLEU 分數": 0.668740304976422
+  },
+  {
+    "參考句子": "Sisa , raremed sa nu tuhem ku vuduy nira . ",
+    "翻譯句子": "Sisa , tuhem culu’en raremed cira vuduy .",
+    "BLEU-1": 0.47768754038252614,
+    "BLEU-2": 8.726935353908751e-155,
+    "BLEU-3": 5.57663707779591e-204,
+    "BLEU-4": 1.1795617510369435e-231,
+    "BLEU 分數": 1.1795617510369435e-231
+  },
+  {
+    "參考句子": "culu’en niyam a pataluma . ",
+    "翻譯句子": "Kami amin culu’en taluma’ .",
+    "BLEU-1": 0.25,
+    "BLEU-2": 7.458340731200295e-155,
+    "BLEU-3": 5.6307666226860216e-204,
+    "BLEU-4": 1.2882297539194154e-231,
+    "BLEU 分數": 1.2882297539194154e-231
+  },
+  {
+    "參考句子": "Hina aru’ kaku i sasa nu kilang a mitengil tu kungku ni vaki . ",
+    "翻譯句子": "Hina aru’ maka kilang i sasa , mitengil vaki pakungku .",
+    "BLEU-1": 0.4986958576677425,
+    "BLEU-2": 0.2827339755529093,
+    "BLEU-3": 1.1140544573202104e-102,
+    "BLEU-4": 6.3511348034988085e-155,
+    "BLEU 分數": 6.3511348034988085e-155
+  },
+  {
+    "參考句子": "padangan nu nira kaku a misanga tu vatikar . ",
+    "翻譯句子": "Cira patadu’aw ku misanga vatikar nu kaku .",
+    "BLEU-1": 0.4953587998572467,
+    "BLEU-2": 9.77487297713204e-155,
+    "BLEU-3": 6.412135627211214e-204,
+    "BLEU-4": 1.3731144660140744e-231,
+    "BLEU 分數": 1.3731144660140744e-231
+  },
+  {
+    "參考句子": "Icuwa’an ku kalamkamay nu silamalay atu vasu ? ",
+    "翻譯句子": "Silamalay atu vasu icuwa’an kalamkamen saw ?",
+    "BLEU-1": 0.5643211499270759,
+    "BLEU-2": 0.4371212831160368,
+    "BLEU-3": 0.3463438424654171,
+    "BLEU-4": 5.253283993027542e-78,
+    "BLEU 分數": 5.253283993027542e-78
+  },
+  {
+    "參考句子": "Matiya u pasevana’ay i tita’an , kalumela tu remi’ad a saan . ",
+    "翻譯句子": "Matiya maka semuwal ku pasuvana’ay , aw kalumela i remi’ad .",
+    "BLEU-1": 0.39770636302860873,
+    "BLEU-2": 8.898688699301465e-155,
+    "BLEU-3": 6.092171930823323e-204,
+    "BLEU-4": 1.331091014027761e-231,
+    "BLEU 分數": 1.331091014027761e-231
+  },
+  {
+    "參考句子": "Anu matengil ku suni nu ak’ak tu davak , a masumad ku remi’ad . ",
+    "翻譯句子": "Tengilan milisu’ davak tamedaw , hay mivalic remi’ad .",
+    "BLEU-1": 0.13986904558770089,
+    "BLEU-2": 3.903263309996421e-155,
+    "BLEU-3": 2.8806767396848395e-204,
+    "BLEU-4": 6.520501036082648e-232,
+    "BLEU 分數": 6.520501036082648e-232
+  },
+  {
+    "參考句子": "Tayra i nu tawan a niyaru’ a dademak cira , ma’urun tu kaku i ciraan . ",
+    "翻譯句子": "Nira sa hekal sera dademak , kappah kaku ma’uruntu nira .",
+    "BLEU-1": 0.12750076016387393,
+    "BLEU-2": 4.034514184096006e-155,
+    "BLEU-3": 3.107509628903754e-204,
+    "BLEU-4": 7.176794039009363e-232,
+    "BLEU 分數": 7.176794039009363e-232
+  },
+  {
+    "參考句子": "Mavana’ haw kisu a misakeru’ ? ",
+    "翻譯句子": "Misakeru’ haw kisu ?",
+    "BLEU-1": 0.513417119032592,
+    "BLEU-2": 0.3630407264452067,
+    "BLEU-3": 1.218299621249876e-102,
+    "BLEU-4": 6.439988060393651e-155,
+    "BLEU 分數": 6.439988060393651e-155
+  },
+  {
+    "參考句子": "Ira ku rengus i uma’umahan . ",
+    "翻譯句子": "Ira ku rengus i uma’umahan .",
+    "BLEU-1": 1.0,
+    "BLEU-2": 1.0,
+    "BLEU-3": 1.0,
+    "BLEU-4": 1.0,
+    "BLEU 分數": 1.0
+  },
+  {
+    "參考句子": "Mapapatakid atu mapapa’icep ku valuhay a maramuday . ",
+    "翻譯句子": "Payu atu vavahi aci tamdaw , tamdaw karivuwa’ .",
+    "BLEU-1": 0.14285714285714285,
+    "BLEU-2": 5.637975647982813e-155,
+    "BLEU-3": 4.6812838082003045e-204,
+    "BLEU-4": 1.1200407237786664e-231,
+    "BLEU 分數": 1.1200407237786664e-231
+  },
+  {
+    "參考句子": "Anu ruma , sanukeren ku nika’en tu piyang , kahina sulac aca tu wadis . ",
+    "翻譯句子": "Anu ruma simasidayay ka piyang , tamdaw kahina ku tamdaw .",
+    "BLEU-1": 0.3980729503187718,
+    "BLEU-2": 0.1888225796865554,
+    "BLEU-3": 8.863376804964398e-103,
+    "BLEU-4": 5.486770126343343e-155,
+    "BLEU 分數": 5.486770126343343e-155
+  },
+  {
+    "參考句子": "Vayiyaw , peleken ku mata a milunguc ! ",
+    "翻譯句子": "Vayi peleken mata tamdaw!",
+    "BLEU-1": 0.3032653298563167,
+    "BLEU-2": 6.397495320955232e-155,
+    "BLEU-3": 4.2929930481953196e-204,
+    "BLEU-4": 9.291879812217675e-232,
+    "BLEU 分數": 9.291879812217675e-232
+  },
+  {
+    "參考句子": "ca’ay kanca katumes nu vuting atu urang ku lunan . ",
+    "翻譯句子": "Lunan kudul tamedaw hay katumes ku vuting atu urang .",
+    "BLEU-1": 0.6666666666666666,
+    "BLEU-2": 0.408248290463863,
+    "BLEU-3": 0.29129144784395883,
+    "BLEU-4": 4.797597231912944e-78,
+    "BLEU 分數": 4.797597231912944e-78
+  },
+  {
+    "參考句子": "U pilipayan anini a remi’ad . ",
+    "翻譯句子": "U saka pina a rem’iad remi’ad .",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "Suwalsa ku matu’asay , “ Anu masuni ku tatakula’ , a kapah ku remi’ad . Anu masuni ku ak’ak , a masumad ku remi’ad . ” ",
+    "翻譯句子": "Matu’asay hina suwalsa : \"Tatakula’ remi’ad , edu masuni mivalic remi’ad .\"",
+    "BLEU-1": 0.17573142541048448,
+    "BLEU-2": 3.210460101135254e-155,
+    "BLEU-3": 2.0515301317955042e-204,
+    "BLEU-4": 4.339365177986787e-232,
+    "BLEU 分數": 4.339365177986787e-232
+  },
+  {
+    "參考句子": "I maka amis ku Pa-rik . ",
+    "翻譯句子": "Pa-rik ku amis .",
+    "BLEU-1": 0.513417119032592,
+    "BLEU-2": 7.658479621952598e-155,
+    "BLEU-3": 4.567911383809372e-204,
+    "BLEU-4": 9.353597313824431e-232,
+    "BLEU 分數": 9.353597313824431e-232
+  },
+  {
+    "參考句子": "Anu saan aca , cacayen a wakung ku walay nu maku . ",
+    "翻譯句子": "Tuya ca’ayay , aw cacayen nu walay .",
+    "BLEU-1": 0.256708559516296,
+    "BLEU-2": 5.415362874261817e-155,
+    "BLEU-3": 3.633940160379789e-204,
+    "BLEU-4": 7.865406450922293e-232,
+    "BLEU 分數": 7.865406450922293e-232
+  },
+  {
+    "參考句子": "Pi’arawi ! Materaka i salil nu velalutung . ",
+    "翻譯句子": "Na’unen! Materaka vuhati velalutung salil tamedaw.",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "Pina ku kuku nu kalang ? ",
+    "翻譯句子": "kalang ku tamedaw nu kuku ?",
+    "BLEU-1": 0.8,
+    "BLEU-2": 1.3341885499455224e-154,
+    "BLEU-3": 8.265459846682046e-204,
+    "BLEU-4": 1.7229823170315744e-231,
+    "BLEU 分數": 1.7229823170315744e-231
+  },
+  {
+    "參考句子": "Tarakaw ci Putal , pu’ener ci Valiyus . ",
+    "翻譯句子": "Putal tamedaw , Valiyus pu’ener .",
+    "BLEU-1": 0.45489799478447507,
+    "BLEU-2": 7.835299584091592e-155,
+    "BLEU-3": 4.907612915087895e-204,
+    "BLEU-4": 1.028315538821e-231,
+    "BLEU 分數": 1.028315538821e-231
+  },
+  {
+    "參考句子": "Cacay ku lahengangay , tusa ku muhetingay . ",
+    "翻譯句子": "Cacayen ku lahengangay , tamdaw ku muhetingay .",
+    "BLEU-1": 0.6666666666666666,
+    "BLEU-2": 0.5163977794943222,
+    "BLEU-3": 1.9283832210684692e-102,
+    "BLEU-4": 1.0719249972567852e-154,
+    "BLEU 分數": 1.0719249972567852e-154
+  },
+  {
+    "參考句子": "Nga’ay malemed amin ku lalavu nu luma’ nu mita ! ",
+    "翻譯句子": "Lunguc kami amin luma’ tamedaw malemed !",
+    "BLEU-1": 0.3032653298563167,
+    "BLEU-2": 6.397495320955232e-155,
+    "BLEU-3": 4.2929930481953196e-204,
+    "BLEU-4": 9.291879812217675e-232,
+    "BLEU 分數": 9.291879812217675e-232
+  },
+  {
+    "參考句子": "Hay , kapah saka’ulahan aca . ",
+    "翻譯句子": "Kapah aca , saka’ulahan .",
+    "BLEU-1": 0.7165313105737893,
+    "BLEU-2": 1.0688269317665663e-154,
+    "BLEU-3": 6.375033883936553e-204,
+    "BLEU-4": 1.3053996630425247e-231,
+    "BLEU 分數": 1.3053996630425247e-231
+  },
+  {
+    "參考句子": "Salipahak saan ku heni i kasivaliyan . ",
+    "翻譯句子": "Vali tata i tamedaw , heni lipahak .",
+    "BLEU-1": 0.3333333333333333,
+    "BLEU-2": 8.612150057732663e-155,
+    "BLEU-3": 6.19152043543562e-204,
+    "BLEU-4": 1.384292958842266e-231,
+    "BLEU 分數": 1.384292958842266e-231
+  },
+  {
+    "參考句子": "Sisa alumantu anini ku wawa nu Yin-cu-min a suvucen , a matu’as i tukay . ",
+    "翻譯句子": "Sisa , anini aluman nu Yin-cu-min kapahay ruma i tukay pacakayay atu matu’astu .",
+    "BLEU-1": 0.46002220731466165,
+    "BLEU-2": 0.27740382852614875,
+    "BLEU-3": 1.2438639164209975e-102,
+    "BLEU-4": 7.535860277359515e-155,
+    "BLEU 分數": 7.535860277359515e-155
+  },
+  {
+    "參考句子": "Tanu radiw sa kira tataheciw . ",
+    "翻譯句子": "Tuya ku tataheciw ca’ay micekaw a radiw.",
+    "BLEU-1": 0.2857142857142857,
+    "BLEU-2": 7.973301625706314e-155,
+    "BLEU-3": 5.884436356840234e-204,
+    "BLEU-4": 1.331960397810445e-231,
+    "BLEU 分數": 1.331960397810445e-231
+  },
+  {
+    "參考句子": "Mangalay kami a paka’ulah i ciraan . ",
+    "翻譯句子": "kayhan kami a kay han cira Salipahak .",
+    "BLEU-1": 0.2857142857142857,
+    "BLEU-2": 0.2182178902359924,
+    "BLEU-3": 1.0921726457139288e-102,
+    "BLEU-4": 6.968148412761692e-155,
+    "BLEU 分數": 6.968148412761692e-155
+  },
+  {
+    "參考句子": "Masuni ku tatakula’ , masadak ku vulad . ",
+    "翻譯句子": "Tatakula’ masuni , masavak masadak .",
+    "BLEU-1": 0.45489799478447507,
+    "BLEU-2": 7.835299584091592e-155,
+    "BLEU-3": 4.907612915087895e-204,
+    "BLEU-4": 1.028315538821e-231,
+    "BLEU 分數": 1.028315538821e-231
+  },
+  {
+    "參考句子": "Hay , kapah kaku . Kisu i ? ",
+    "翻譯句子": "Hay , kapah:tu kaku . Kisu i ?",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.6324555320336759,
+    "BLEU-3": 0.5143157015215767,
+    "BLEU-4": 7.380245217279165e-78,
+    "BLEU 分數": 7.380245217279165e-78
+  },
+  {
+    "參考句子": "Sa’usienma anu simasidayay ? ",
+    "翻譯句子": "Semuwal melawan, awaay simasidayay ?",
+    "BLEU-1": 0.25,
+    "BLEU-2": 7.458340731200295e-155,
+    "BLEU-3": 5.6307666226860216e-204,
+    "BLEU-4": 1.2882297539194154e-231,
+    "BLEU 分數": 1.2882297539194154e-231
+  },
+  {
+    "參考句子": "Anu matu’astu kaku , a adihay ku pida . ",
+    "翻譯句子": "Kaku matu’astu tamedaw , tamdaw hay adihay a pida .",
+    "BLEU-1": 0.625,
+    "BLEU-2": 1.1792672138099217e-154,
+    "BLEU-3": 7.618820303044337e-204,
+    "BLEU-4": 1.619863157690489e-231,
+    "BLEU 分數": 1.619863157690489e-231
+  },
+  {
+    "參考句子": "U ma’an ku sapisaturunen , mavana’ haw kisu ? ",
+    "翻譯句子": "Kisu mavana’ turun anu ma’an ( tamdaw ) tamedaw haw ?",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "Vaeket haw kira’an a ’elun ? ",
+    "翻譯句子": "Tuya ’elun va’e:ket haw ?",
+    "BLEU-1": 0.38940039153570244,
+    "BLEU-2": 8.214546595247418e-155,
+    "BLEU-3": 5.512312187546572e-204,
+    "BLEU-4": 1.1931009847695213e-231,
+    "BLEU 分數": 1.1931009847695213e-231
+  },
+  {
+    "參考句子": "Mavana’ a pakungku ku vaki . ",
+    "翻譯句子": "Vaki kappah mavana’ pakungku.",
+    "BLEU-1": 0.5841005873035536,
+    "BLEU-2": 1.0060723813336494e-154,
+    "BLEU-3": 6.3014997182378755e-204,
+    "BLEU-4": 1.3203832882211142e-231,
+    "BLEU 分數": 1.3203832882211142e-231
+  },
+  {
+    "參考句子": "Nanu davak tangasa i lavi’i , ca’aca’ay pahanhan . ",
+    "翻譯句子": "Nanu davak tangasa i lavi’i , amin awaay pahanhan .",
+    "BLEU-1": 0.75,
+    "BLEU-2": 0.6546536707079771,
+    "BLEU-3": 0.6014891009517342,
+    "BLEU-4": 0.5410822690539396,
+    "BLEU 分數": 0.5410822690539396
+  },
+  {
+    "參考句子": "Ca’ay , u Taruku kami . ",
+    "翻譯句子": "Ca’ay , kami ku Taruku .",
+    "BLEU-1": 0.75,
+    "BLEU-2": 1.2918225086599675e-154,
+    "BLEU-3": 8.091285801468074e-204,
+    "BLEU-4": 1.6954057018456463e-231,
+    "BLEU 分數": 1.6954057018456463e-231
+  },
+  {
+    "參考句子": "Hay , anu maherektu a mimelaw , ka’isutu ku panukasay i ciraan . ",
+    "翻譯句子": "Kapah , mimelaw maherektu , hen ka’isutu panukasay Pavelian cira .",
+    "BLEU-1": 0.38940039153570244,
+    "BLEU-2": 8.214546595247418e-155,
+    "BLEU-3": 5.512312187546572e-204,
+    "BLEU-4": 1.1931009847695213e-231,
+    "BLEU 分數": 1.1931009847695213e-231
+  },
+  {
+    "參考句子": "U nicakayan satu nira , uni “ An-tu-sen a kungku ” nu wawa , u nu maku satu , uni “ I-su a kungku ” . ",
+    "翻譯句子": "Nika nicakayan anu \"An-tu-sen wawa suwal\" , maku nicakayan anu \"I-su tamdaw\" .",
+    "BLEU-1": 0.16721792780520106,
+    "BLEU-2": 3.6996990102602368e-155,
+    "BLEU-3": 2.52320977324086e-204,
+    "BLEU-4": 5.50310971579044e-232,
+    "BLEU 分數": 5.50310971579044e-232
+  },
+  {
+    "參考句子": "Macidal haw anini ? ",
+    "翻譯句子": "U saka macidal anini ?",
+    "BLEU-1": 0.5,
+    "BLEU-2": 1.0547686614863434e-154,
+    "BLEU-3": 7.077948953527403e-204,
+    "BLEU-4": 1.5319719891192393e-231,
+    "BLEU 分數": 1.5319719891192393e-231
+  },
+  {
+    "參考句子": "Ca’ay palasawad kaku tu i kaysingay a kaka’enen , ",
+    "翻譯句子": "Ca’ay palasawad ku kaysingay nu kaka’enen , kaku .",
+    "BLEU-1": 0.6191984998215584,
+    "BLEU-2": 0.2991012913863172,
+    "BLEU-3": 1.2810598766760494e-102,
+    "BLEU-4": 7.595569210207636e-155,
+    "BLEU 分數": 7.595569210207636e-155
+  },
+  {
+    "參考句子": "Micudad kaku i cacudadan . ",
+    "翻譯句子": "I cacudadan kaku a micudad .",
+    "BLEU-1": 0.8,
+    "BLEU-2": 0.447213595499958,
+    "BLEU-3": 1.7537333503408093e-102,
+    "BLEU-4": 9.975386110402101e-155,
+    "BLEU 分數": 9.975386110402101e-155
+  },
+  {
+    "參考句子": "madengay aca a milaylay , mihemhem tu valucu’ nu maku . ",
+    "翻譯句子": "Aca kapah minanamay maku a tamdaw valucu’ .",
+    "BLEU-1": 0.4294155960430205,
+    "BLEU-2": 8.473621356741026e-155,
+    "BLEU-3": 5.5585386654301705e-204,
+    "BLEU-4": 1.1903225844148727e-231,
+    "BLEU 分數": 1.1903225844148727e-231
+  },
+  {
+    "平均 BLEU 分數": 0.04227183924980094
+  },
+  {
+    "Average BLEU-1": 0.4658071938297193,
+    "Average BLEU-2": 0.1628020384471451,
+    "Average BLEU-3": 0.09416863037431546,
+    "Average BLEU-4": 0.04227183924980094
+  }
+]
