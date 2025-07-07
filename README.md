@@ -18,12 +18,12 @@ Source: [族語 e 樂園 (Klokah)](https://web.klokah.tw/)
 
 Corpus includes:
 - Sediq Truku (450 sentences)
-- Nanshi Amis (100 sentences)
-- Wanta Atayal (350 sentences)
+- Nanshi Amis (450 sentences)
+- Wanta Atayal (450 sentences)
 
 Data is split into:
-- Training set
-- Test set
+- Training set (350 sentences)
+- Test set (100 sentences)
 
 ## 🔍 Methods
 
