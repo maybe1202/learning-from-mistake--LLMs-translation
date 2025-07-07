@@ -1,4 +1,4 @@
-# Error Reflection — Translation of Indigenous Languages
+# Learning from mistake — Translation of Indigenous Languages
 
 This project explores the use of Large Language Models (LLMs) for translating Taiwan's low-resource indigenous languages. We compare various prompting methods to identify the most effective strategy for improving translation quality through error reflection.
 
